@@ -1,0 +1,207 @@
+/*
+type your custom css here
+在本文件键入您的自定义CSS
+升级主题文件时请注意保护本文件，防止意外覆盖。
+*/
+#zazhibiaoti {float:left;margin-top: 45px;
+    margin-left: 20px;}
+#zazhishijian {float:right;margin-top: 40px;
+    margin-right: 25px;}
+#userstage {margin-top: 36.5px ;height:153px;}
+  #login_click{ margin-top:15px; height: 10px; }  
+
+#login_click a:hover { background:#EDC68F; }  
+
+
+
+#login_click a   
+{  
+      
+  
+    text-decoration:none;  
+    background:#8E6221;  
+    color:#f2f2f2;  
+    
+    
+    padding: 10px 37.5% 10px 37.5%;  
+    font-size:15px;  
+    font-family: 微软雅黑,宋体,Arial,Helvetica,Verdana,sans-serif;  
+    font-weight:bold;  
+   
+    -webkit-transition:all linear 0.30s;  
+    -moz-transition:all linear 0.30s;  
+    transition:all linear 0.30s;  
+      
+    }  
+#newsindex h1 {
+    margin: 0.1em 0 .0em;}
+#newsindex	.archives-wrap {
+    margin: 0px 0;
+}
+#newsindex  a {
+      text-indent: 0px;
+	  font: 12px/38px 'Microsoft Yahei';
+	  float:right;
+	  
+       }
+	   .xinwenshijian {margin-right:15px;}
+#newsindex .archive-article-title {
+	overflow: hidden; 
+	white-space: nowrap; 
+	text-overflow: ellipsis;
+	width:50%;
+	float: left;
+	border-left: 0px solid #16171b;
+	padding-left: 0px;
+	}
+#newsindexs .new_list_con {
+    width: auto;
+    
+    margin-left: 0px; 
+  
+}
+
+	
+
+
+
+@media screen and (max-width:980px) {
+
+.site-branding {
+    float: left;
+    margin-top: 220px;
+	width: 30.846292%;
+}
+
+.container {
+    width: auto;
+	    padding: 0;
+	
+}
+.site-header {
+		margin-left: 30px;
+    margin-right: 4.071585%;
+		background: url(head2.png);
+		padding: 0px 0 0;
+	background-repeat:no-repeat; background-size:100% 100%;-moz-background-size:100% 100%;
+		}
+	#header {
+		height: auto;
+	}
+	
+	#sidebar {
+		
+	}
+
+}
+#zhuye {border: 1px solid #eef1f8;height:765px;}
+@media screen and (max-width:470px) {
+	#zhuye {
+		height: 790px;
+	}
+	}
+	@media screen and (max-width:480px) {
+	#search-form-wrap {display:none
+		
+	}
+		#sidebar {display:block
+		
+	}
+	#form1 {display:none
+		
+	}
+	.site-branding {
+    
+  
+}
+#userstage {display:none
+		
+	}
+	#jdjskg {display:none
+		
+	}
+	}
+	@media screen and (max-width:858px) {
+	#login_click a {font-size: 13px;}
+	.search-form-submit {font-size: 1em;}
+	#userstage {margin-top: 42.5px ;height:142px;}}	
+	.wrapper{position: relative;margin-top: 10px;margin-bottom: 30px;width: 100%;height: 230px;}
+  .banner{width:100%;height: 230px;overflow: hidden;}
+  .imgList{width:100%;height:230px;z-index: 10;}
+  .imgList .imgOn{display: inline;}
+	
+
+@media screen and (max-width:768px) { .site-header {
+	margin-left: 20px;
+	margin-right: 20px;
+}}	
+@media screen and (max-width:494px) {#zazhibiaoti {float:left;margin-top: 32px;
+    margin-left: 10px;}
+#zazhishijian {float:left;margin-top: 0px;
+    margin-right: 0px;margin-left: 10px;}}	
+
+
+@media screen and (max-width:768px) {
+.site-branding {
+     margin-top: 200px;
+   }
+}	
+@media screen and (max-width:414px) {
+.site-branding {
+     margin-top: 80px;
+   }
+}	
+@media screen and (max-width:375px) {
+.site-branding {
+     margin-top: 60px;
+   }
+}	
+@media screen and (max-width:320px) {
+#footer .container {
+    height: auto;
+}
+#zhuye .article {
+    
+    padding-left: 9.5px;
+   
+}
+		 .container {
+  
+    height: 122.34px;  
+}
+.site-branding {
+    
+    margin-top: 22px;
+   
+}
+#main-navigation li a {
+   
+    padding: 0 0px;}
+}	
+
+ul.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+ul.pagination li {display: inline;}
+
+ul.pagination li a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+}
+
+ul.pagination li a.active {
+    background-color: #EDC68F;
+    color: white;
+    border: 1px solid #EDC68F;
+}
+
+ul.pagination li a:hover:not(.active) {background-color: #ddd;}
+
+div.center {text-align: center;}
