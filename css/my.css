@@ -7,13 +7,13 @@ type your custom css here
     margin-left: 20px;}
 #zazhishijian {float:right;margin-top: 40px;
     margin-right: 25px;}
-#userstage {margin-top: 19.5px ;height:auto;}
+#userstage {margin-top: 34.5px ;height:auto;}
   #login_click{ line-height: 35px;
     text-align: center;
     margin-right: 12px;
     height: 35px;
 background: #8E6221;	
-margin-top:10px;
+margin-top:5px;
 cursor: pointer;
 -webkit-transition: all 0.14s ease 0s;
     -moz-transition: all 0.14s ease 0s;
@@ -102,7 +102,7 @@ cursor: pointer;
 	}
 
 }
-#zhuye {border: 1px solid #eef1f8;height:765px;}
+#zhuye {border: 1px solid #eef1f8;height:755px;}
 @media screen and (max-width:470px) {
 	#zhuye {
 		height: 790px;
