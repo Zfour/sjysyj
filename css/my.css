@@ -7,30 +7,38 @@ type your custom css here
     margin-left: 20px;}
 #zazhishijian {float:right;margin-top: 40px;
     margin-right: 25px;}
-#userstage {margin-top: 36.5px ;height:153px;}
-  #login_click{ margin-top:15px; height: 10px; }  
+#userstage {margin-top: 19.5px ;height:auto;}
+  #login_click{ line-height: 35px;
+    text-align: center;
+    margin-right: 12px;
+    height: 35px;
+background: #8E6221;	
+margin-top:10px;
+cursor: pointer;
+-webkit-transition: all 0.14s ease 0s;
+    -moz-transition: all 0.14s ease 0s;
+    -o-transition: all 0.14s ease 0s;  }  
 
-#login_click a:hover { background:#EDC68F; }  
+#login_ul :hover { background:#EDC68F; }  
 
 
 
 #login_click a   
 {  
       
-  
+        cursor: pointer;
+    
     text-decoration:none;  
-    background:#8E6221;  
+     
     color:#f2f2f2;  
     
     
-    padding: 10px 37.5% 10px 37.5%;  
+    
     font-size:15px;  
     font-family: 微软雅黑,宋体,Arial,Helvetica,Verdana,sans-serif;  
     font-weight:bold;  
    
-    -webkit-transition:all linear 0.30s;  
-    -moz-transition:all linear 0.30s;  
-    transition:all linear 0.30s;  
+    
       
     }  
 #newsindex h1 {
