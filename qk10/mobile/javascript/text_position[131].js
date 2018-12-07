@@ -1,0 +1,1 @@
+﻿positionForPages[131]={page:131,positions:[{word:"设计艺术研究  DESIGN RESEARCH  Vol.8 No.4 2018     ",left:0.103174,top:0.020199,width:0.331674,height:0.011521},{word:"126",left:0.054703,top:0.020199,width:0.022678,height:0.011521},{word:"高奇峰   未来极限运动保障概念车设计     指导老师   吕杰锋",left:0.131582,top:0.899120,width:0.437626,height:0.014173}]};
